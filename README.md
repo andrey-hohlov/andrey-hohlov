@@ -1,16 +1,15 @@
-## Hi there 👋
+## Andrei Khokhlov
 
-<!--
-**andrey-hohlov/andrey-hohlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🥷 Senior Full-Stack Engineer (frontend-focused)
 
-Here are some ideas to get you started:
+I build scalable web products, frontend platforms and developer tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work lives in private repositories, but my interests include:
+
+• Frontend architecture  
+• Design systems  
+• TypeScript ecosystems  
+• Developer experience  
+• Product-driven engineering
+
+Currently working on product infrastructure and UI platforms.
